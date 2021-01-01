@@ -42,6 +42,8 @@
 
 4. akses localhost port 80
 
-    jika terdapat error saat mengakses web. restart docker-compose dengan menghentikan proses docker-compose menggunakan perintah ``docker-compose down`` lalu jalankan kembali docker-compose
+    jika terdapat error saat mengakses web. restart docker-compose dengan menghentikan proses docker-compose menggunakan perintah ``docker-compose down`` lalu jalankan kembali docker-compose.
+    
+    atau bisa tunggu dahulu beberapa saat sebelum mengakses web.
 
 source web oleh user chapagain
