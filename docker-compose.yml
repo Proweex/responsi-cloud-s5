@@ -4,7 +4,7 @@ services:
   php:
     build: 
       context: .
-      #image: responsi-cloud-s5_php:firstpush
+    #image: responsi-cloud-s5_php:firstpush
     ports:
       - 80:80
     volumes:
